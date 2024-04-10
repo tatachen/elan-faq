@@ -5,4 +5,4 @@
 可以利用RX收完讓MCU在decode時，決定TC0_TAG_CTRL要設bit0還是bit1，  
 之後找時間再將TC0_TAG0和TC0_TAG1的數值做相減得到時間差  
 
-![image](http://192.168.55.95:8089/api/faq/images/mpp25_3.png)
+![image](http://175.41.195.139:8080/api/faq/images/mpp25_3.png)

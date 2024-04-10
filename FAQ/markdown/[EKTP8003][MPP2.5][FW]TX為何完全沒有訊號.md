@@ -1,6 +1,6 @@
 1.  請先確認 Beacon 區間是否設定與 Uplink 打的時間一致，以MPP2.5的範例程式應設定為 8300
     #define MPP_25_TC_CMP_TTW9 7712+588
-    ![image](http://192.168.55.95:8089/api/faq/images/mpp25_1.png)
+    ![image](http://175.41.195.139:8080/api/faq/images/mpp25_1.png)
 
 2.  請參考以下的 TC 設定
     TC_0 = MPP_25_TC_CMP_TTW4 + (840 / TC_DIV);
